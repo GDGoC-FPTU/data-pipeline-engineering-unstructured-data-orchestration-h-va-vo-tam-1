@@ -2,7 +2,7 @@
 # Codelab 03: The Multi-Modal Minefield
 **Author**: Võ Tự Đức (VinUni AI Lab)
 **Topic**: Data Pipeline Engineering - Unstructured Data Orchestration
-
+Member: Nguyễn Ngọc Cường - 2A202600186, Phạm Trần Thanh Lâm - 2A202600270
 ## Overview
 In this lab, you will act as a 4-person Data Engineering team. Your goal is to ingest messy, unstructured data from two different sources (PDFs and Videos), normalize it, and unify it into a single, high-quality Knowledge Base for an AI Agent.
 
